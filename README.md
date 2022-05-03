@@ -1,6 +1,5 @@
-### Hello dear visitor 👋
+### Hello and welcome to my GitHub profile! 👋 :wink:
 
-Welcome to my GitHub profile! :wink:
 Feel free to browse around and take a look at my projects. I also wrote some articles on [Medium](https://medium.com/@josip.vuger)!
 
 <!--
